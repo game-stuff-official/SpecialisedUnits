@@ -11,6 +11,7 @@ circleTarget: true
 reload: 20
 engineOffset: 5.5
 commandLimit : 4
+engineSize: 4
 
 
 shootType: {
