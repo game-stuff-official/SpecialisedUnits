@@ -17,6 +17,7 @@ targetGround: true
 targetAir: false
 
 shootType: {
+  name: flash burst weapon.
   type: BasicBulletType
   lifetime: 55
   width: 9
