@@ -14,6 +14,7 @@ consumes: {
      items: [
   silicon/50
   graphite/40
+  titanium/30
   ]
  }
 }
