@@ -4,6 +4,7 @@ flying: true
 description: A stronger variant of the flare. Faster and more annoying.
 health:250
 range: 230
+drag: 0.01
 speed: 5
 accel: 0.1
 hitSize: 14
@@ -12,7 +13,8 @@ reload: 20
 engineOffset: 5.5
 commandLimit : 4
 engineSize: 4
-
+targetGround: true
+targetAir: false
 
 shootType: {
   type: BasicBulletType
