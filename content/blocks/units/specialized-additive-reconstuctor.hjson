@@ -20,6 +20,7 @@ consumes: {
 
 upgrades: [
   [mono, duo]
+  [flare, flash]
 ]
 
 category: units
