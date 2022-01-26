@@ -30,16 +30,16 @@ weapons: [
         speed: 1
  }}
  {
-    name: Flash Minigun.
+    name: Flash Shot.
     ammoMultiplier: 2
-    reload: 5
-    x: 0.1
+    reload: 60
+    x: 0
     y: 0
       bullet: {
-        type: BasicBulletType
+        type: ShrapnelBulletType
         lifetime: 55
-        width: 7
-        height: 12
-        speed: 2
+        shots: 5
+        bulletLength:50
+        width: 10
  }}
       ]
