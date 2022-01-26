@@ -16,16 +16,28 @@ targetGround: true
 targetAir: false
 
 weapons: [ {
-    name: Flash burst weapon.
+    name: Flash Weapon.
     ammoMultiplier: 2
-    shots: 5
-    shotSpacing: 2
     reload: 20
-    x: 2
+    x: 3
     y: 0
       bullet: {
         type: BasicBulletType
         lifetime: 55
         width: 9
         height: 12
+        speed: 1
+        {
+    name: Flash.
+    ammoMultiplier: 2
+    reload: 5
+    x: 0.5
+    y: 0
+      bullet: {
+        type: BasicBulletType
+        lifetime: 55
+        width: 8
+        height: 12
+        speed: 2
+        }
       }}]
