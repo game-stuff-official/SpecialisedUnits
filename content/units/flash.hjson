@@ -15,7 +15,8 @@ engineSize: 4
 targetGround: true
 targetAir: false
 
-weapons: [ {
+weapons: [ 
+{
     name: Flash Weapon.
     ammoMultiplier: 2
     reload: 20
@@ -27,17 +28,18 @@ weapons: [ {
         width: 9
         height: 12
         speed: 1
-        {
-    name: Flash.
+ }}
+ {
+    name: Flash Minigun.
     ammoMultiplier: 2
-    reload: 5
-    x: 0.5
+    reload: 20]]5
+    x: 0.1
     y: 0
       bullet: {
         type: BasicBulletType
         lifetime: 55
-        width: 8
+        width: 7
         height: 12
         speed: 2
-        }
-      }}]
+ }}
+      ]
