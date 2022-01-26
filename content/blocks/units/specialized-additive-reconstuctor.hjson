@@ -9,10 +9,14 @@ requirements: [
   
 size: 3
 consumePower: 3
-consumesItems: [
+consumes: {
+    items: {
+     items: [
   silicon: 50
   graphite: 40
-]
+  ]
+ }
+}
 
 upgrades: [
   [mono, duo]
