@@ -3,13 +3,13 @@ type: Reconstructor
 requirements: {
   copper/ 200
   lead/120
-  silicon/90
+  silicon/110
 }
   
 size: 3
 consumePower: 3
 consumesItems: {
-  silicon: 40
+  silicon: 50
   graphite: 40
 }
 
