@@ -1,4 +1,3 @@
-name:specialized-additive-reconstructor
 type: Reconstructor
 requirements: [
   copper/ 200
