@@ -9,6 +9,9 @@ accel: 0.1
 hitSize: 14
 circleTarget: true
 reload: 20
+engineOffset: 5.5
+commandLimit : 4
+
 
 shootType: {
   type: BasicBulletType
