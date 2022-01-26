@@ -17,13 +17,13 @@ targetGround: true
 targetAir: false
 
 weapon: {
-shootType: {
-  name: flash burst weapon.
-  type: BasicBulletType
-  lifetime: 55
-  width: 9
-  height: 12
-  ammoMultiplier: 2
-  shots: 5
-  shotSpacing: 1
+  shootType: {
+    name: flash burst weapon.
+    type: BasicBulletType
+    lifetime: 55
+    width: 9
+    height: 12
+    ammoMultiplier: 2
+    shots: 5
+    shotSpacing: 1
 }}
