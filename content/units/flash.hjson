@@ -5,12 +5,12 @@ description: A stronger variant of the flare. Faster and more annoying.
 health:250
 range: 230
 drag: 0.01
-speed: 6
-accel: 0.3
+speed: 10
+accel: 0.002
 hitSize: 14
 circleTarget: true
 engineOffset: 6
-commandLimit : 4
+commandLimit : 40
 engineSize: 4
 targetGround: true
 targetAir: false
@@ -32,7 +32,9 @@ weapons: [
  {
     name: Flash Shot.
     ammoMultiplier: 2
-    reload: 1
+    reload: 60
+    shootCone: 10
+    damage: 50
     shootSound: shotgun
     x: 0
     y: 0
