@@ -1,7 +1,6 @@
 name: Specialized Additive Reconstuctor
-type: Reconstructor {
-  type: flying
-}
+type: Reconstructor
+
 requirements: [
   copper/ 200
   lead/120
@@ -10,10 +9,10 @@ requirements: [
   
 size: 3
 consumePower: 3
-consumesItems: {
+consumesItems: [
   silicon: 50
   graphite: 40
-}
+]
 
 upgrades: [
   [mono, duo]
