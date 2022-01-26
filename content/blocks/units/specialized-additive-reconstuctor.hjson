@@ -12,8 +12,8 @@ consumePower: 3
 consumes: {
     items: {
      items: [
-  silicon: 50
-  graphite: 40
+  silicon/50
+  graphite/40
   ]
  }
 }
