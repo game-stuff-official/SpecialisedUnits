@@ -1,10 +1,10 @@
 name:specialized-additive-reconstructor
 type: Reconstructor
-requirements: {
+requirements: [
   copper/ 200
   lead/120
   silicon/110
-}
+]
   
 size: 3
 consumePower: 3
