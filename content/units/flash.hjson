@@ -1,0 +1,21 @@
+name: Flash
+type: flying
+flying: true
+description: A stronger variant of the flare. Faster and more annoying.
+health:250
+range: 230
+speed: 5
+accel: 0.1
+hitSize: 14
+circleTarget: true
+reload: 20
+
+shootType: {
+  type: BasicBulletType
+  lifetime: 55
+  width: 9
+  height: 12
+  ammoMultiplier: 2
+  shots: 5
+  shotSpacing: 1
+}
