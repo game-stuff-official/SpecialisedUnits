@@ -6,7 +6,7 @@ hitSize: 35
 speed: 2
 rotateSpeed: 0.8
 accel:0.12
-mineTeir: 2
+mineTier: 2
 mineSpeed: 3.5
 range:70
 drag:0.06
