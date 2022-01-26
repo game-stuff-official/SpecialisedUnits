@@ -16,7 +16,7 @@ engineSize: 4
 targetGround: true
 targetAir: false
 
-weapon: {
+weapons: [
   shootType: {
     name: flash burst weapon.
     type: BasicBulletType
@@ -26,4 +26,4 @@ weapon: {
     ammoMultiplier: 2
     shots: 5
     shotSpacing: 1
-}}
+}]
