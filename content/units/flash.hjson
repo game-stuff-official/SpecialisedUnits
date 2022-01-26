@@ -32,14 +32,13 @@ weapons: [
  {
     name: Flash Shot.
     ammoMultiplier: 2
-    reload: 60
+    reload: 0
     x: 0
     y: 0
       bullet: {
         type: ShrapnelBulletType
         lifetime: 55
-        shots: 5
-        bulletLength:50
+        bulletLength:25
         width: 10
  }}
       ]
