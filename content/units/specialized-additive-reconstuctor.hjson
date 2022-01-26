@@ -1,4 +1,7 @@
-type: Reconstructor
+name: Specialized Additive Reconstuctor
+type: Reconstructor {
+  type: flying
+}
 requirements: [
   copper/ 200
   lead/120
