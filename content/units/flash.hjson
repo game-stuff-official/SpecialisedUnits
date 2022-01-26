@@ -19,7 +19,7 @@ weapons: [ {
     name: Flash burst weapon.
     ammoMultiplier: 2
     shots: 5
-    shotSpacing: 1
+    shotSpacing: 2
     reload: 20
     x: 2
     y: 0
