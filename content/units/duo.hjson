@@ -3,10 +3,33 @@ type: flying
 flying: true
 controller: minerAI
 hitSize: 20
-speed: 1.5
-rotateSpeed: 0.8
-accel:0.05
+speed: 2
+rotateSpeed: 1
+accel:0.1
 mineTier: 3
-mineSpeed: 3.5
+mineSpeed: 5
 range:90
-drag:0.06
+drag:0.12
+engineOffset: 1
+engineSize: 2
+
+weapons: [
+  {
+    name: Poly Healing Missile
+    homingPower: 0.08
+    weaveMag 4
+    weaveScale 4
+    lifetime: 50
+    keepVelocity: false
+    shootEffect: Fx.shootHeal
+    smokeEffect: Fx.hitLaser
+    despawnEffect: Fx.hitLaser
+    hitEffect: Fx.hitLaser
+    frontColor: Color.white
+    hitSound: Sounds.none
+    healPercent: 2.85
+    collidesTeam: true
+    backColor: Pal.heal
+    trailColor: Pal.heal
+  }
+]
