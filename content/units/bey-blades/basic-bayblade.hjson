@@ -1,4 +1,4 @@
 name:basic-bayblade
 type: mech
 speed: 0.8
-rotateSpeed: 0
+rotateSpeed: 1
