@@ -16,8 +16,6 @@ engineSize: 2
 weapons: [
   {
     name: Poly Healing Missile
-
-
     collidesTeam: true
     Color: Pal.heal
     trailColor: Pal.heal
