@@ -1,4 +1,4 @@
-const bayBlade = extend(UnitType, "name", {
+const basicBayBlade = extend(UnitType, "name", {
   spinSpeed: 2,
   clockwise: -1,
   health: 100,
@@ -8,5 +8,8 @@ const bayBlade = extend(UnitType, "name", {
     unit.vel().rotate(unit.rotation + Time.delta * this.spinSpeed * this.clockwise);
   }
 }); 
-bayBlade.defaultController = () => extend(SuicideAI, {})
-bayBlade.constructor = () => extend(MechUnit, {});
+basicBayBlade.defaultController = () => extend(SuicideAI, {})
+basicBayBlade.constructor = () => extend(MechUnit, {});
+}); 
+basicBayBlade.defaultController = () => extend(SuicideAI, {})
+basicBayBlade.constructor = () => extend(MechUnit, {});
