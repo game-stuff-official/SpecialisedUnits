@@ -16,24 +16,21 @@ engineSize: 2
 weapons: [
   {
     name: Poly Healing Missile
-    lifetime: 50
-    keepVelocity: false
-    despawnEffect: Fx.hitLaser
-    hitEffect: Fx.hitLaser
-    frontColor: Color.white
-    hitSound: Sounds.none
-    healPercent: 2.85
+
+
     collidesTeam: true
-    backColor: Pal.heal
+    Color: Pal.heal
     trailColor: Pal.heal
     bullet {
       homingPower: 0.08
-      shootEffect: Fx.shootHeal
       type: MissileBulletType
-      smokeEffect: Fx.hitLaser
       weaveMag: 4
+      lifetime: 50
       weaveScale: 4
       healPercent: 2.85
+      keepVelocity: false
+      healPercent: 2.85
+      keepVelocity: false
     }
   }
 ]
