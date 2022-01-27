@@ -26,8 +26,7 @@ weapons: [
       weaveMag: 4
       lifetime: 50
       weaveScale: 4
-      healPercent: 2.85
-      healPercent: 2.85
+      healPercent: 2.5
       keepVelocity: false
     }
   }
