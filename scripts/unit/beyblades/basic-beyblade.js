@@ -1,6 +1,9 @@
-//update(Vars.player.unit().vel.rotate(++)))
-Events.run(Trigger.update, () => {
+  name= "bae-maid";
   
- vel.rotate(1)
+
+
+
+
+Events.run(Trigger.update, () => {
                                 
 });
