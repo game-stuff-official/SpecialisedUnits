@@ -7,9 +7,3 @@ const basicBayBlade = extend(UnitType, "name", {
     this.super$update(unit);
     unit.vel().rotate(unit.rotation + Time.delta * this.spinSpeed * this.clockwise);
   }
-}); 
-basicBayBlade.defaultController = () => extend(SuicideAI, {})
-basicBayBlade.constructor = () => extend(MechUnit, {});
-}); 
-basicBayBlade.defaultController = () => extend(SuicideAI, {})
-basicBayBlade.constructor = () => extend(MechUnit, {});
