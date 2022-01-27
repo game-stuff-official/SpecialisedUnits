@@ -1,5 +1,5 @@
-  name= "bay-blade";
-  
+  speed= 3;
+  type: "mech";
 
 
 
