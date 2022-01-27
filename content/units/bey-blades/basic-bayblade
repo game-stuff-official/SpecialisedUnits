@@ -1,5 +1,0 @@
-name:basic-bayblade
-type: mech
-speed: 0.8
-rotateSpeed: 3
-controller:suicideAI
