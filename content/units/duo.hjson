@@ -16,11 +16,11 @@ engineSize: 2
 weapons: [
   {
     name: Missile
-    collidesTeam: true
-    Color: heal
-    trailColor: heal
-    keepVelocity: false
     bullet {
+      collidesTeam: true
+      Color: heal
+      trailColor: heal
+      keepVelocity: false
       homingPower: 0.08
       type: MissileBulletType
       weaveMag: 4
