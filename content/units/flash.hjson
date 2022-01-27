@@ -9,11 +9,11 @@ speed: 8
 accel: 1
 hitSize: 25
 circleTarget: true
-engineOffset: 6
+engineOffset: 10
 commandLimit : 40
 engineSize: 4
 targetGround: true
-targetAir: false
+targetAir: true
 
 weapons: [ 
 {
