@@ -1,9 +1,3 @@
-  speed= 3;
-  type= "mech";
-  controller= "scuicideAI";
-
-
-
 const speeeed = extend(UnitType, "name", {\
   spinSpeed: 2,
   clockwise: -1,
