@@ -7,6 +7,8 @@ requirements: [
   silicon/110
 ]
   
+ constructime: 700
+  
 size: 3
 consumePower: 3
 consumes: {
