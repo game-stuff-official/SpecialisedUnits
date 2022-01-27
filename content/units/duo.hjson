@@ -16,7 +16,7 @@ engineSize: 2
 weapons: [
   {
     name: healWeaponMount
-    bullet {
+    bullet: {
       collidesTeam: true
       Color: heal
       trailColor: heal
