@@ -15,7 +15,7 @@ engineSize: 2
 
 weapons: [
   {
-    name: Missile
+    name: healWeaponMount
     bullet {
       collidesTeam: true
       Color: heal
