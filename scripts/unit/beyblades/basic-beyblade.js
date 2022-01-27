@@ -1,4 +1,4 @@
-const speeeed = extend(UnitType, "name", {
+const bayBlade = extend(UnitType, "name", {
   spinSpeed: 2,
   clockwise: -1,
   health: 100,
@@ -8,5 +8,5 @@ const speeeed = extend(UnitType, "name", {
     unit.vel().rotate(unit.rotation + Time.delta * this.spinSpeed * this.clockwise);
   }
 }); 
-speeeed.defaultController = () => extend(SuicideAI, {})
-speeeed.constructor = () => extend(MechUnit, {});
+bayBlade.defaultController = () => extend(SuicideAI, {})
+bayBlade.constructor = () => extend(MechUnit, {});
