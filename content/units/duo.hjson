@@ -15,10 +15,10 @@ engineSize: 2
 
 weapons: [
   {
-    name: Poly Healing Missile
+    name: Missile
     collidesTeam: true
-    Color: Pal.heal
-    trailColor: Pal.heal
+    Color: heal
+    trailColor: heal
     keepVelocity: false
     bullet {
       homingPower: 0.08
