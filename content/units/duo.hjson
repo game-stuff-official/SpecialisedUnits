@@ -19,6 +19,7 @@ weapons: [
     collidesTeam: true
     Color: Pal.heal
     trailColor: Pal.heal
+    keepVelocity: false
     bullet {
       homingPower: 0.08
       type: MissileBulletType
@@ -26,7 +27,6 @@ weapons: [
       lifetime: 50
       weaveScale: 4
       healPercent: 2.85
-      keepVelocity: false
       healPercent: 2.85
       keepVelocity: false
     }
