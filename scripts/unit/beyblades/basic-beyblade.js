@@ -1,6 +1,6 @@
   speed= 3;
-  type: "mech";
-
+  type= "mech";
+  controller= "scuicideAI";
 
 
 
