@@ -22,7 +22,7 @@ consumes: {
 }
 
 upgrades: [
-  [mono, duo-SpecialisedUnits]
+  [mono, SpecialisedUnits-duo]
   [flare, flash]
   [dagger, basic-bayblade]
 ]
