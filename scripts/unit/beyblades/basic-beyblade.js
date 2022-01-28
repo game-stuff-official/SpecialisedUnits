@@ -1,4 +1,4 @@
-const unit = extend(UnitType, "basic-bayblade", {
+const unit = extend(UnitType, "basic-beyblade", {
   spinSpeed: 3;
   clockwise: -1;
   update(unit){
