@@ -1,1 +1,1 @@
-require("specialised-units/units/bayblades/basic-bayblade")
+require("specialised-units/units/beyblade/basic-beyblade")
