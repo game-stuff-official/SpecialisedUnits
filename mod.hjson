@@ -1,4 +1,5 @@
 name:specialised-units
+displayName: Specialised Units
 desc:Adds specialised units
 minGameVersion: "126.2"
 author: GameStuff
