@@ -3,11 +3,11 @@ speed: 1.5
 hitSize: 10
 mechSideSway: .5
 type: mech
-range: 80
+range: 800
 weapons: [
   {
     shootOndeath: true
-    reload: 0
+    reload: 10
     shootCone: 180
     shootSound: Sounds.explosion
       bullet: {
