@@ -3,7 +3,7 @@ speed: 2
 hitSize: 10
 mechSideSway: .5
 range: 40
-weapons[
+weapons: [
   {
     shootOndeath: true
     reload: 24
