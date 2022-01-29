@@ -11,7 +11,6 @@ weapons: [
     shootCone: 180
     shootSound: Sounds.explosion
       bullet: {
-        hitEffect: Fx.pulverize
         lifetime: 10
         speed: 1
         splashDamageRadius: 55
