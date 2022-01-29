@@ -2,6 +2,7 @@ name: runner
 speed: 2
 hitSize: 10
 mechSideSway: .5
+type: mech
 range: 40
 weapons: [
   {
