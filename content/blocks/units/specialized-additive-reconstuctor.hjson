@@ -24,7 +24,6 @@ consumes: {
 upgrades: [
   [mono, duo]
   [flare, flash]
-  [dagger, basic-bayblade]
 ]
 
 category: units
