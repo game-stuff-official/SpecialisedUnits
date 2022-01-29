@@ -2,7 +2,7 @@ name:duo
 type: flying
 flying: true
 controller: minerAI
-hitSize: 20
+hitSize: 15
 speed: 2
 rotateSpeed: 1
 accel:0.1
@@ -12,20 +12,3 @@ range:90
 drag:0.12
 engineOffset: 1
 engineSize: 2
-
-weapons: [
-  {
-    name: healWeaponMount
-    bullet: {
-      collidesTeam: true
-      keepVelocity: false
-      homingPower: 0.08
-      type: MissileBulletType
-      weaveMag: 4
-      lifetime: 50
-      weaveScale: 4
-      healPercent: 2.5
-      keepVelocity: false
-    }
-  }
-]
