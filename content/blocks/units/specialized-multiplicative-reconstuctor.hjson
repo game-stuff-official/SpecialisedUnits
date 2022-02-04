@@ -1,0 +1,29 @@
+name: Specialized Multiplicative Reconstuctor
+type: Reconstructor
+
+requirements: [
+  titanium/ 350
+  lead/650
+  silicon/450
+  thorium/650
+]
+  
+ constructime: 1800
+  
+size: 5
+consumePower: 5
+consumes: {
+    items: {
+     items: [
+  silicon/130
+  metaglass/40
+  titanium/80
+  ]
+ }
+}
+
+upgrades: [
+  [poly, plures]
+]
+
+category: units
