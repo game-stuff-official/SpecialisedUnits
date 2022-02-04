@@ -1,1 +1,14 @@
-
+name:Many
+type: flying
+flying: true
+controller: builderAI
+hitSize: 20
+speed: 4
+rotateSpeed: 5
+accel:0.3
+mineTier: 2
+mineSpeed: 2
+range:90
+drag:0.12
+engineOffset: 1
+engineSize: 2
