@@ -4,7 +4,7 @@ type: Reconstructor
 requirements: [
   copper/ 200
   lead/120
-  silicon/110
+  silicon/90
 ]
   
  constructime: 700
@@ -14,9 +14,8 @@ consumePower: 3
 consumes: {
     items: {
      items: [
-  silicon/50
+  silicon/40
   graphite/40
-  titanium/30
   ]
  }
 }
@@ -24,7 +23,6 @@ consumes: {
 upgrades: [
   [mono, duo]
   [flare, flash]
-  [crawler, runner]
 ]
 
 category: units
