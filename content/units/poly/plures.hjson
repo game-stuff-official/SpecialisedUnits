@@ -1,13 +1,12 @@
-name:Several
+name:Plures
 type: flying
 flying: true
-controller: builderAI
+controller: BuilderAI
+buildSpeed: 100
 hitSize: 20
 speed: 4
-rotateSpeed: 5
+rotateSpeed: 8
 accel:0.3
-mineTier: 2
-mineSpeed: 2
 range:90
 drag:0.12
 engineOffset: 1
