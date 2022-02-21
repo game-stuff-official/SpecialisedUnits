@@ -35,13 +35,14 @@ weapons:[
       }
   }
     {
-    name: largest-weapon
-    reload: 15
+    name: big-cannon
+    mirror: false
+    reload: 30
     top: false
-    x:  6
+    x: 0
     y: -7
-    inaccuracy: 3
-    shots:3
+    inaccuracy: 5
+    shots:5
       bullet: {
         type: BasicBulletType
         speed: 6
