@@ -7,7 +7,8 @@ range: 80
 
 weapons:[
   {
-    name: large-weapon
+    name: weapon
+    bulletSprite: weapon
     reload: 13
     top: false
     x: 4
@@ -18,7 +19,7 @@ weapons:[
       }
   }
     {
-    name: large-weapon
+    name: weapon
     reload: 13
     top: false
     x: 8
@@ -29,7 +30,7 @@ weapons:[
       }
   }
     {
-    name: large-weapon
+    name: weapon
     reload: 13
     top: false
     x:  4
