@@ -32,7 +32,7 @@ weapons:[
     name: large-weapon
     reload: 13
     top: false
-    x: -4
+    x: -16
     y: 2
       bullet: {
         type: BasicBulletType
