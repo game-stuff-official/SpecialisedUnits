@@ -21,24 +21,26 @@ weapons:[
   }
     {
     name: larger-weapon
-    reload: 45
+    reload: 15
     top: false
     x: 10
     y: -1
-    shots: 3
-    inaccuracy: 3
+    burstSpacing:5
+    shots: 2
       bullet: {
         type: BasicBulletType
-        speed: 6
+        speed: 4
         damage: 9
       }
   }
     {
-    name: large-weapon
+    name: largest-weapon
     reload: 15
     top: false
     x:  4
     y: -8
+    shots:3
+    burstSpacing: 5
       bullet: {
         type: BasicBulletType
         speed: 4
