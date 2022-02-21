@@ -15,6 +15,8 @@ weapons:[
     x: 6
     y: 8
       bullet: {
+        width: 6
+        height: 7
         type: BasicBulletType
         speed: 4
     damage: 9
@@ -29,6 +31,8 @@ weapons:[
     inaccuracy: 2
     shots: 2
       bullet: {
+        width: 6
+        height: 7
         type: BasicBulletType
         speed: 5
         damage: 9
