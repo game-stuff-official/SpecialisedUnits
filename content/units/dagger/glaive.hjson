@@ -3,7 +3,7 @@ desc:Souped up dagger. Has loots of spammy weapons.
 speed: 1
 health: 500
 rotateSpeed: 3
-range: 80
+range: 160
 hover: false
 
 weapons:[
@@ -15,7 +15,7 @@ weapons:[
     y: 8
       bullet: {
         type: BasicBulletType
-        speed: 2
+        speed: 4
     damage: 9
       }
   }
@@ -27,7 +27,7 @@ weapons:[
     y: 0
       bullet: {
         type: BasicBulletType
-        speed: 2
+        speed: 4
     damage: 9
       }
   }
@@ -39,7 +39,7 @@ weapons:[
     y: -8
       bullet: {
         type: BasicBulletType
-        speed: 2
+        speed: 4
     damage: 9
       }
   }
