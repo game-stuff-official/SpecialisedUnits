@@ -2,7 +2,7 @@
 Allows you to make a unit specialised.
 ## Units
 ### Poly
-#### Many
+#### Plures
 T3 poly. Much faster building and speed.
 ### Mono
 #### Duo
