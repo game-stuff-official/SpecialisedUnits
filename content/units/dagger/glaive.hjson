@@ -4,6 +4,7 @@ speed: 1
 health: 500
 rotateSpeed: 3
 range: 80
+hover: false
 
 weapons:[
   {
