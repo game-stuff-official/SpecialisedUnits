@@ -8,7 +8,6 @@ range: 160
 hover: false
 
 weapons:[
-  }
     {
     name: larger-weapon
     reload: 30
