@@ -14,6 +14,7 @@ weapons:[
     y: 2
       bullet: {
         type: BasicBulletType
+        speed: 2
     damage: 9
       }
   }
@@ -25,6 +26,7 @@ weapons:[
     y: 0
       bullet: {
         type: BasicBulletType
+        speed: 2
     damage: 9
       }
   }
@@ -36,6 +38,7 @@ weapons:[
     y: -10
       bullet: {
         type: BasicBulletType
+        speed: 2
     damage: 9
       }
   }
