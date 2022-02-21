@@ -1,45 +1,21 @@
 name:Mobile Lancer
 desc:Literaly a mobile lancer.
-speed: .5
+speed: .25
 type: mech
-health: 500
+health: 1120
 rotateSpeed: 3
-range: 160
+range: 165
 hover: false
 
 weapons:[
     {
     name: larger-weapon
-    reload: 15
-    top: false
-    x: 10
-    y: -1
-    inaccuracy: 2
-    shots: 2
+    reloadTime: 80
+    chargeTime: 40
       bullet: {
-        width: 6
-        height: 7
-        type: BasicBulletType
-        speed: 5
-        damage: 9
-      }
-  }
-    {
-    name: big-cannon
-    mirror: false
-    reload: 10
-    top: false
-    x: 0
-    y: -7
-    inaccuracy: 3
-    sound: bigshot
-    shots:1
-      bullet: {
-        width: 8
-        height: 9
-        type: BasicBulletType
-        speed: 6
-        damage: 27
+      bulletType: LaserBulletType
+      length: 173
+      hitSize: 4
       }
   }
 ]
