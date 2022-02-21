@@ -41,8 +41,8 @@ weapons:[
     top: false
     x: 0
     y: -7
-    width: 10
-    height: 15
+    width: 20
+    height: 30
     inaccuracy: 10
     shots:5
       bullet: {
