@@ -37,12 +37,12 @@ weapons:[
     {
     name: big-cannon
     mirror: false
-    reload: 30
+    reload: 60
     top: false
     x: 0
     y: -7
     inaccuracy: 10
-    shots:5
+    shots:10
       bullet: {
         width: 20
         height: 30
