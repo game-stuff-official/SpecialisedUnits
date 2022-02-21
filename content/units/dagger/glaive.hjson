@@ -9,33 +9,33 @@ weapons:[
   {
     name: large-weapon
     reload: 13
+    top: false
+      bullet: {
+        type: BasicBulletType
     x: 4
     y: 2
-    top: false
-      bullet: {
-        type: BasicBulletType
     damage: 9
       }
   }
     {
     name: large-weapon
     reload: 13
+    top: false
+      bullet: {
+        type: BasicBulletType
     x: 0
     y: 4
-    top: false
-      bullet: {
-        type: BasicBulletType
     damage: 9
       }
   }
     {
     name: large-weapon
     reload: 13
-    x: -4
-    y: 2
     top: false
       bullet: {
         type: BasicBulletType
+    x: -4
+    y: 2
     damage: 9
       }
   }
