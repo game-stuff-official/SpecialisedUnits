@@ -16,4 +16,24 @@ weapons:[
         type: BasicBulletType
       }
   }
+    {
+    name: large-weapon
+    reload: 13
+    x: 0
+    y: 3
+    top: false
+      bullet: {
+        type: BasicBulletType
+      }
+  }
+    {
+    name: large-weapon
+    reload: 13
+    x: -4
+    y: 2
+    top: false
+      bullet: {
+        type: BasicBulletType
+      }
+  }
 ]
