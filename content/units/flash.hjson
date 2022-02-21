@@ -37,7 +37,7 @@ weapons: [
     shootCone: 40
     inaccuracy: 5
     shootSound: pew
-    damage: 9
+    damage: 27
     x: 1
     y: 0
       bullet: {
