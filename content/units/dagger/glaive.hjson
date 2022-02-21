@@ -41,11 +41,11 @@ weapons:[
     top: false
     x: 0
     y: -7
-    width: 20
-    height: 30
     inaccuracy: 10
     shots:5
       bullet: {
+        width: 20
+        height: 30
         type: BasicBulletType
         speed: 6
     damage: 18
