@@ -37,6 +37,7 @@ weapons: [
     shootCone: 20
     inaccuracy: 3
     shootSound: pew
+    damage: 9
     x: 1
     y: 0
       bullet: {
@@ -45,5 +46,6 @@ weapons: [
         height: 13
         speed: 3
         width: 10
+        damage: 9
  }}
       ]
