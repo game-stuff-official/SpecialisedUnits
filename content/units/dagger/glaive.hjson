@@ -10,10 +10,10 @@ weapons:[
     name: large-weapon
     reload: 13
     top: false
-      bullet: {
-        type: BasicBulletType
     x: 4
     y: 2
+      bullet: {
+        type: BasicBulletType
     damage: 9
       }
   }
@@ -21,10 +21,10 @@ weapons:[
     name: large-weapon
     reload: 13
     top: false
-      bullet: {
-        type: BasicBulletType
     x: 0
     y: 4
+      bullet: {
+        type: BasicBulletType
     damage: 9
       }
   }
@@ -32,10 +32,10 @@ weapons:[
     name: large-weapon
     reload: 13
     top: false
-      bullet: {
-        type: BasicBulletType
     x: -4
     y: 2
+      bullet: {
+        type: BasicBulletType
     damage: 9
       }
   }
