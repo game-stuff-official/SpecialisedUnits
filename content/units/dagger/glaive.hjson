@@ -20,7 +20,7 @@ weapons:[
       }
   }
     {
-    name: large-weapon
+    name: larger-weapon
     reload: 15
     top: false
     x: 10
