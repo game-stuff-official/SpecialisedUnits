@@ -3,21 +3,22 @@ type: flying
 flying: true
 description: A stronger variant of the flare. Faster and more annoying.
 health:250
-range: 300
+range: 200
 drag: 0.5
+rotateSpeed: 100
 speed: 8
 accel: 1
 hitSize: 25
 circleTarget: true
 engineOffset: 10
-commandLimit : 40
-engineSize: 4
+commandLimit : 4
+engineSize: 5
 targetGround: true
 targetAir: true
 
 weapons: [ 
 {
-    name: Flash Weapon.
+    name: Flare weapon.
     ammoMultiplier: 2
     reload: 20
     x: 3
@@ -30,12 +31,11 @@ weapons: [
         speed: 1
  }}
  {
-    name: Flash Miniggun.
+    name: Flash Minigun.
     ammoMultiplier: 2
     reload: 5
     shootCone: 20
-    inaccuracy: 1
-    damage: 5
+    inaccuracy: 3
     shootSound: pew
     x: 1
     y: 0
