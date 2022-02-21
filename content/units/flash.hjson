@@ -2,13 +2,13 @@ name: Flash
 type: flying
 flying: true
 description: A stronger variant of the flare. Faster and more annoying.
-health:250
+health:350
 range: 200
 drag: 0.5
 rotateSpeed: 100
 speed: 6
 accel: .5
-hitSize: 25
+hitSize: 15
 circleTarget: true
 engineOffset: 10
 commandLimit : 4
