@@ -33,7 +33,7 @@ weapons:[
     reload: 13
     top: false
     x:  4
-    y: -2
+    y: -10
       bullet: {
         type: BasicBulletType
     damage: 9
