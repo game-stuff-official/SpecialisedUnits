@@ -33,6 +33,7 @@ weapons:[
     x: 0
     y: -7
     inaccuracy: 10
+    sound: bigshot
     shots:1
       bullet: {
         width: 6
