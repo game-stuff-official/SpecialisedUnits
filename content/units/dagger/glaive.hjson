@@ -1,6 +1,6 @@
 name:Glaive
 desc:Souped up dagger. Has loots of spammy weapons.
-speed: 1
+speed: .5
 type: mech
 health: 500
 rotateSpeed: 3
