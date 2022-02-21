@@ -41,12 +41,14 @@ weapons:[
     top: false
     x: 0
     y: -7
-    inaccuracy: 5
+    width: 10
+    height: 15
+    inaccuracy: 10
     shots:5
       bullet: {
         type: BasicBulletType
         speed: 6
-    damage: 9
+    damage: 18
       }
   }
 ]
