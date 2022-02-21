@@ -6,8 +6,8 @@ health:250
 range: 200
 drag: 0.5
 rotateSpeed: 100
-speed: 8
-accel: 1
+speed: 6
+accel: .5
 hitSize: 25
 circleTarget: true
 engineOffset: 10
