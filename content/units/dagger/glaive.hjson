@@ -3,7 +3,7 @@ desc:Souped up dagger. Has loots of spammy weapons.
 speed: 1
 health: 500
 rotateSpeed: 3
-range: 999
+range: 80
 
 weapons:[
   {
