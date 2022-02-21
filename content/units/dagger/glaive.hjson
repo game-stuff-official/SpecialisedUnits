@@ -42,7 +42,7 @@ weapons:[
     x: 0
     y: -7
     inaccuracy: 10
-    shots:10
+    shots:5
       bullet: {
         width: 10
         height: 15
