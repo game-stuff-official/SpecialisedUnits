@@ -26,7 +26,7 @@ weapons:[
     top: false
     x: 10
     y: -1
-    burstSpacing:5
+    burstSpacing:10
     shots: 2
       bullet: {
         type: BasicBulletType
@@ -40,10 +40,11 @@ weapons:[
     top: false
     x:  6
     y: -7
+    burstSpacing: 10
+    inaccuracy: 3
     shots:3
       bullet: {
         type: BasicBulletType
-        burstSpacing: 5
         speed: 4
     damage: 9
       }
