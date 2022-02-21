@@ -10,7 +10,7 @@ hover: false
 weapons:[
     {
     name: larger-weapon
-    reload: 30
+    reload: 15
     top: false
     x: 10
     y: -1
@@ -27,7 +27,7 @@ weapons:[
     {
     name: big-cannon
     mirror: false
-    reload: 1
+    reload: 10
     top: false
     x: 0
     y: -7
@@ -35,11 +35,11 @@ weapons:[
     sound: bigshot
     shots:1
       bullet: {
-        width: 6
-        height: 7
+        width: 8
+        height: 9
         type: BasicBulletType
         speed: 6
-        damage: 9
+        damage: 27
       }
   }
 ]
