@@ -41,9 +41,9 @@ weapons:[
     x:  6
     y: -7
     shots:3
-    burstSpacing: 5
       bullet: {
         type: BasicBulletType
+        burstSpacing: 5
         speed: 4
     damage: 9
       }
