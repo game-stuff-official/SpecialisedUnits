@@ -21,10 +21,11 @@ weapons:[
   }
     {
     name: larger-weapon
-    reload: 15
+    reload: 45
     top: false
     x: 10
     y: 0
+    shots: 3
       bullet: {
         type: BasicBulletType
         speed: 4
