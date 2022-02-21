@@ -12,7 +12,7 @@ weapons:[
     name: large-weapon
     reload: 15
     top: false
-    x: 4
+    x: 6
     y: 8
       bullet: {
         type: BasicBulletType
@@ -38,7 +38,7 @@ weapons:[
     name: largest-weapon
     reload: 15
     top: false
-    x:  4
+    x:  6
     y: -8
     shots:3
     burstSpacing: 5
