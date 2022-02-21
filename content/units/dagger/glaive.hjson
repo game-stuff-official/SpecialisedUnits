@@ -24,12 +24,13 @@ weapons:[
     reload: 45
     top: false
     x: 10
-    y: 0
-    shots: 3
+    y: -1
+    shots: 5
+    inaccuracy: 5
       bullet: {
         type: BasicBulletType
-        speed: 4
-    damage: 9
+        speed: 6
+        damage: 9
       }
   }
     {
