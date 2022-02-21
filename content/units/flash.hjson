@@ -34,8 +34,8 @@ weapons: [
     name: Flash Minigun.
     ammoMultiplier: 2
     reload: 5
-    shootCone: 20
-    inaccuracy: 3
+    shootCone: 40
+    inaccuracy: 5
     shootSound: pew
     damage: 9
     x: 1
@@ -43,9 +43,9 @@ weapons: [
       bullet: {
         type: BasicBulletType
         lifetime: 55
-        height: 13
+        height: 10
         speed: 3
-        width: 10
+        width: 8
         damage: 9
  }}
       ]
