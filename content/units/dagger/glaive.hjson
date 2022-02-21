@@ -8,7 +8,6 @@ range: 80
 weapons:[
   {
     name: weapon
-    bulletSprite: weapon
     reload: 13
     top: false
     x: 4
