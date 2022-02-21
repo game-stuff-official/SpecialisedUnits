@@ -23,6 +23,7 @@ consumes: {
 upgrades: [
   [mono, duo]
   [flare, flash]
+  [dagger, glaive]
 ]
 
 category: units
