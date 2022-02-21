@@ -39,7 +39,7 @@ weapons:[
     reload: 15
     top: false
     x:  6
-    y: -8
+    y: -7
     shots:3
     burstSpacing: 5
       bullet: {
