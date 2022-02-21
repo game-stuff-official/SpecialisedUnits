@@ -44,8 +44,8 @@ weapons:[
     inaccuracy: 10
     shots:10
       bullet: {
-        width: 20
-        height: 30
+        width: 15
+        height: 20
         type: BasicBulletType
         speed: 6
     damage: 18
