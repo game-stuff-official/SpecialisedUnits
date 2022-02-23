@@ -13,6 +13,7 @@ weapons:[
     reload: 11
     top: false
     mirror: false
+    type: FireBulletType
     x: 0
     y: -5
     inaccuracy: 5
