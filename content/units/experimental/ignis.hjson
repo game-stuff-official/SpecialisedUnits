@@ -18,10 +18,10 @@ weapons:[
     ejectEffect: none
     bullet: {
         ammoMultiplier: 3
-        hitSize: 7
-        lifeTime: 13
+        hitSize: 21
+        lifeTime: 39
         pierce: true
-        statusDuration: 240
+        statusDuration: 720
         shootEffect: shootSmallFlame
         hitEffect: hitFlameSmall
         despawnEffect: none
