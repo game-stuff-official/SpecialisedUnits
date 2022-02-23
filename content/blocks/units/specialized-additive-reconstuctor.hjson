@@ -24,7 +24,6 @@ upgrades: [
   [mono, duo]
   [flare, flash]
   [dagger, glaive]
-  [crawler, mobile-lancer]
 ]
 
 category: units
