@@ -4,7 +4,7 @@ speed: .5
 type: mech
 health: 500
 rotateSpeed: 3
-range: 160
+range: 140
 hover: false
 
 weapons:[
