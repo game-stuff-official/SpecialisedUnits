@@ -13,13 +13,13 @@ weapons:[
     reload: 11
     top: false
     mirror: false
-    type: FireBulletType
+    type: basicFlame
     x: 0
     y: -5
     inaccuracy: 5
     shots: 2
       bullet: {
-        type: FireBulletType
+        type: basicFlame
       }
   }
 ]
