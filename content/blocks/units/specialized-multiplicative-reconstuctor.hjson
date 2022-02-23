@@ -24,6 +24,7 @@ consumes: {
 
 upgrades: [
   [poly, plures]
+  [mace, ignis]
 ]
 
 category: units
