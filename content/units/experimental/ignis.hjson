@@ -10,16 +10,23 @@ hover: false
 weapons:[
     {
     name: "flamethrower"
-    reload: 11
     top: false
-    mirror: false
-    BulletType: basicFlame
-    x: 0
-    y: -5
-    inaccuracy: 5
-    shots: 2
-      bullet: {
-        BulletType: basicFlame
-      }
-  }
+    shootSound: flame
+    shootY: 2
+    reload: 11
+    recoil: 1
+    ejectEffect: none
+    bullet: {
+        ammoMultiplier: 3
+        hitSize: 7
+        lifeTime: 13
+        pierce: true
+        statusDuration: 240
+        shootEffect: shootSmallFlame
+        hitEffect: hitFlameSmall
+        despawnEffect: none
+        status: burning
+        keepVelocity: false
+        hittable: false
+    }
 ]
