@@ -1,0 +1,24 @@
+name:Ignis
+desc:A firey death.
+speed: .5
+type: mech
+health: 1500
+rotateSpeed: 2.5
+range: 80
+hover: false
+
+weapons:[
+    {
+    name: larger-weapon
+    reload: 11
+    top: false
+    mirror: false
+    x: 0
+    y: -5
+    inaccuracy: 5
+    shots: 2
+      bullet: {
+        type: FireBulletType
+      }
+  }
+]
