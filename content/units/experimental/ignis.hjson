@@ -9,17 +9,17 @@ hover: false
 
 weapons:[
     {
-    name: larger-weapon
+    name: "flamethrower"
     reload: 11
     top: false
     mirror: false
-    type: fireball
+    type: basicFlame
     x: 0
     y: -5
     inaccuracy: 5
     shots: 2
       bullet: {
-        type: fireball
+        type: basicFlame
       }
   }
 ]
