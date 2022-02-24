@@ -14,6 +14,55 @@ weapons:[
     shootSound: flame
     shootY: 2
     reload: 11
+    mirror: false
+    recoil: 1
+    ejectEffect: none
+    bullet: {
+        ammoMultiplier: 3
+        hitSize: 21
+        lifeTime: 39
+        pierce: true
+        statusDuration: 720
+        shootEffect: shootSmallFlame
+        hitEffect: hitFlameSmall
+        despawnEffect: none
+        status: burning
+        keepVelocity: false
+        hittable: false
+    }
+  }
+    {
+    shotDelay: 30
+    name: "flamethrower2"
+    top: false
+    shootSound: flame
+    shootY: 4
+    reload: 11
+    mirror: false
+    recoil: 1
+    ejectEffect: none
+    bullet: {
+        ammoMultiplier: 3
+        hitSize: 21
+        lifeTime: 39
+        pierce: true
+        statusDuration: 720
+        shootEffect: shootSmallFlame
+        hitEffect: hitFlameSmall
+        despawnEffect: none
+        status: burning
+        keepVelocity: false
+        hittable: false
+    }
+  }
+      {
+    shotDelay: 60
+    name: "flamethrower3"
+    top: false
+    shootSound: flame
+    shootY: 6
+    reload: 11
+    mirror: false
     recoil: 1
     ejectEffect: none
     bullet: {
