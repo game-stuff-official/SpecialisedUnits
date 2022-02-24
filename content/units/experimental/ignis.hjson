@@ -15,7 +15,7 @@ weapons:[
     top: false
     shootSound: flame
     shootY: 2
-    reload: 11
+    reload: 9
     mirror: false
     recoil: 1
     ejectEffect: none
@@ -40,7 +40,7 @@ weapons:[
     top: false
     shootSound: flame
     shootY: 2
-    reload: 11
+    reload: 10
     mirror: false
     recoil: 1
     ejectEffect: none
