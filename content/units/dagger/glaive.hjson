@@ -31,6 +31,7 @@ weapons:[
     top: false
     x: 0
     y: -7
+    rotate: true
     inaccuracy: 3
     sound: bigshot
     shots:1
