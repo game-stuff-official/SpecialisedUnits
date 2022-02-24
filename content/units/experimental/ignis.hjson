@@ -36,7 +36,7 @@ weapons:[
     {
     name: "flamethrower2"
     x: 0
-    y: 8
+    y: 16
     top: false
     shootSound: flame
     shootY: 2
@@ -61,7 +61,7 @@ weapons:[
       {
     name: "flamethrower3"
     x: 0
-    y: 16
+    y: 32
     top: false
     shootSound: flame
     shootY: 2
