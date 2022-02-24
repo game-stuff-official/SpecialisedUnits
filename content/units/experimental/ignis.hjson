@@ -32,11 +32,11 @@ weapons:[
     }
   }
     {
-    shotDelay: 30
+    shotDelay: 60
     name: "flamethrower2"
     top: false
     shootSound: flame
-    shootY: 4
+    shootY:8
     reload: 11
     mirror: false
     recoil: 1
@@ -56,11 +56,11 @@ weapons:[
     }
   }
       {
-    shotDelay: 60
+    shotDelay: 120
     name: "flamethrower3"
     top: false
     shootSound: flame
-    shootY: 6
+    shootY: 16
     reload: 11
     mirror: false
     recoil: 1
