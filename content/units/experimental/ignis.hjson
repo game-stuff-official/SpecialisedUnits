@@ -10,6 +10,8 @@ hover: false
 weapons:[
     {
     name: "flamethrower"
+    x: 0
+    y: 0
     top: false
     shootSound: flame
     shootY: 2
@@ -32,11 +34,12 @@ weapons:[
     }
   }
     {
-    shotDelay: 60
     name: "flamethrower2"
+    x: 4
+    y: 0
     top: false
     shootSound: flame
-    shootY:8
+    shootY: 2
     reload: 11
     mirror: false
     recoil: 1
@@ -56,11 +59,12 @@ weapons:[
     }
   }
       {
-    shotDelay: 120
     name: "flamethrower3"
+    x: 8
+    y: 0
     top: false
     shootSound: flame
-    shootY: 16
+    shootY: 2
     reload: 11
     mirror: false
     recoil: 1
