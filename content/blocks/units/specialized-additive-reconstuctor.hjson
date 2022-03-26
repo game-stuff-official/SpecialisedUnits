@@ -10,7 +10,7 @@ requirements: [
 construcTime: 700
   
 size: 3
-consumes:
+consumes: {
   power: 3
   items: {
     items: [
