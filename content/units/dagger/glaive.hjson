@@ -1,5 +1,4 @@
 name: Glaive
-desc: Souped up dagger. Has loots of spammy weapons.
 speed: .5
 type: mech
 health: 500
@@ -33,8 +32,6 @@ weapons: [
     rotate: true
     alternate: true
     inaccuracy: 0
-    sound: bigshot
-    burstSpacing: 2
     shots: 5
       bullet: {
         width: 8
