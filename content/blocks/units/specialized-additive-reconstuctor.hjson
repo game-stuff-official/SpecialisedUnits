@@ -7,7 +7,7 @@ requirements: [
   silicon/90
 ]
 
-construcTime: 700
+constructTime: 700
   
 size: 3
 consumes: {
