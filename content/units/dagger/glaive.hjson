@@ -32,12 +32,13 @@ weapons: [
     y: -7
     rotate: true
     alternate: true
-    inaccuracy: 3
+    inaccuracy: 0
     sound: bigshot
+    burstSpacing: 2
     shots: 5
       bullet: {
         width: 8
-        height: 9
+        height: 10
         type: BasicBulletType
         speed: 6
         damage: 27
