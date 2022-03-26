@@ -6,18 +6,18 @@ requirements: [
   lead/120
   silicon/90
 ]
-  
- constructime: 700
+
+construcTime: 700
   
 size: 3
-consumePower: 3
-consumes: {
-    items: {
-     items: [
-  silicon/40
-  graphite/40
-  ]
- }
+consumes:
+  power: 3
+  items: {
+    items: [
+      silicon/40
+      graphite/40
+    ]
+  }
 }
 
 upgrades: [
