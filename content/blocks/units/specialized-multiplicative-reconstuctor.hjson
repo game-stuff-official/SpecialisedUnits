@@ -8,11 +8,11 @@ requirements: [
   thorium/650
 ]
   
- constructime: 1800
+construcTime: 1800
   
 size: 5
-consumePower: 5
 consumes: {
+    power: 3
     items: {
      items: [
   silicon/130

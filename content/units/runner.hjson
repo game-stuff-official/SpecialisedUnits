@@ -6,7 +6,7 @@ type: mech
 range: 800
 weapons: [
   {
-    shootOndeath: true
+    shootOnDeath: true
     reload: 10
     shootCone: 180
     shootSound: Sounds.explosion
