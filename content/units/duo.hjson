@@ -2,7 +2,7 @@ name:duo
 type: flying
 flying: true
 controller: minerAI
-hitSize: 10
+hitSize: 20
 speed: 2
 rotateSpeed: 4
 accel:0.1

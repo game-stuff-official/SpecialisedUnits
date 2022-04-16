@@ -3,7 +3,7 @@ type: flying
 flying: true
 controller: BuilderAI
 buildSpeed: 100
-hitSize: 15
+hitSize: 30
 speed: 4
 rotateSpeed: 8
 accel:0.3
