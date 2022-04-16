@@ -8,7 +8,7 @@ requirements: [
   thorium/650
 ]
   
-construcTime: 1800
+constructTime: 1800
   
 size: 5
 consumes: {

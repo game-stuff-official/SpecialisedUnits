@@ -6,11 +6,11 @@ hitSize: 35
 speed: 1.5
 rotateSpeed: 4
 accel: 0.1
-buildBeamOffset: -1
+buildBeamOffset: -5
 mineTier: 4
 mineSpeed: 15
 drag: 0.12
-engineOffset: 4
+engineOffset: 10
 engineSize: 4
 payloadCapacity: 160
 research: duo
