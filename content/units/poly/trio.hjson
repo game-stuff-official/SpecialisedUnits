@@ -10,7 +10,7 @@ buildBeamOffset: -5
 mineTier: 4
 mineSpeed: 15
 drag: 0.12
-engineOffset: 10
+engineOffset: 20
 engineSize: 4
 payloadCapacity: 160
 research: duo
