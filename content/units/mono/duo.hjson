@@ -1,0 +1,14 @@
+name: duo
+type: flying
+flying: true
+controller: minerAI
+hitSize: 15
+speed: 2
+rotateSpeed: 4
+accel: 0.1
+mineTier: 3
+mineSpeed: 2.5
+drag:0.12
+engineOffset: 5
+engineSize: 2
+research: mono

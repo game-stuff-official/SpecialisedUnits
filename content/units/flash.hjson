@@ -33,7 +33,7 @@ weapons: [
  {
     name: Flash Minigun.
     ammoMultiplier: 2
-    reload: 5
+    reload: 3
     shootCone: 40
     inaccuracy: 5
     shootSound: pew
